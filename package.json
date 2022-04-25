@@ -3,7 +3,7 @@
   "version": "1.0.7",
   "description": "Uniswap Interface",
   "homepage": "https://qq953710428.github.io/uniswap",
-  "files": [
+  "files": [ 
     "dist"
   ],
   "type": "module",
